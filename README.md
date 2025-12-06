@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @amanm2004
+- 👋 Hi, I’m aman mishra
 - 👀 I’m interested in backend and full stack tech
-- 🌱 I’m currently learning java spring
-- 💞️ I’m looking to collaborate on java projects
+- 🌱 I’m currently learning android development
+- 💞️ I’m looking to collaborate on backend and react-native projects
 - 📫 How to reach me aman.m93267@gmail.com
-- 😄 Pronouns: he/him
+  
 
 
 <!---
