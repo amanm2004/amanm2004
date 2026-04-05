@@ -1,8 +1,7 @@
-- 👋 Hi, I’m aman mishra
-- 👀 I’m interested in backend and full stack tech
-- 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on backend and react-native projects
-- 📫 How to reach me aman.m93267@gmail.com
+- Hi, I’m aman mishra
+- I’m interested in backend and full stack tech
+- I’m looking to collaborate on backend and react-native projects
+- How to reach me aman.m93267@gmail.com
   
 
 
